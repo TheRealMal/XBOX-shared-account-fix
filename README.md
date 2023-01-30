@@ -1,6 +1,6 @@
 # English
 How to fix games crashes if you play via shared XBOX account? (Sea of Thieves, Forza, etc.)
-1. Download Python (3.11 version, but should work with other versions too)
+1. Install Python (3.11 version, but should work with other versions too)
 2. Download repository
 3. Run `required.bat` (It downloads keyboard lib)
 4. Run `main.py`
@@ -9,7 +9,7 @@ How to fix games crashes if you play via shared XBOX account? (Sea of Thieves, F
 P.s. main.py kills explorer and starts it back when you press HOME button (You can change it in main.py)
 # Русский
 Как пофиксить вылеты игр, если вы играете через общий XBOX аккаунт? (Sea of Thieves, Forza и тд.)
-1. Нужно установить Python (Желательно версии 3.11, но должно работать и на остальных)
+1. Установить Python (Желательно версии 3.11, но должно работать и на остальных)
 2. Скачать репозиторий
 3. Запустить `required.bat` (Скачивает библиотеку keyboard)
 4. Запустить `main.py`
